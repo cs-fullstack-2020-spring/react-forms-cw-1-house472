@@ -1,4 +1,6 @@
 # react-forms-1
+### Great work! Be sure to get rid of useless spaces and comment your code. Also kudos for starting the challenge.
+### Score : 5/5
 
 ### Exercise 1: Basic Form with a Stateful Component
 - Create a new react app called `feelings-app`
